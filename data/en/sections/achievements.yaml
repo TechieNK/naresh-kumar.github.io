@@ -1,0 +1,15 @@
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+
+- title: AWS Graviton Hackathon
+  image: images/sections/achievements/graviton.png
+  summary: Winner of Migration track in AWS Graviton Hackathon organized by Amazon

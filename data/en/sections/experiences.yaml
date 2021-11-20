@@ -1,0 +1,23 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Cognizance Club
+    url: "https://cognizance-amrita.herokuapp.com/"
+    location: Amrita Vishwa Vidyapeetham, Chennai
+    overview: A student club meant for the development of students in fields like Artificial Intelligence, Cybersecurity and Open Source
+  positions:
+  - designation: Artificial Intelligence Coordinator
+    start: December 2020
+    responsibilities:
+    - Coordinating and organising guest lectures, workshops and hands-on sessions on various trending technologies
+    - Training the freshers on various competitions like Hackathons and other technical competitions
+

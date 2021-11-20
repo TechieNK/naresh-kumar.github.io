@@ -1,0 +1,69 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Undergraduate Student (B.Tech - CSE)
+# your company information
+company:
+  name: Amrita Vishwa Vidyapeetham, Chennai
+  url: "https://www.amrita.edu/school/engineering/chennai"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/NK-resume.pdf"
+
+# a summary about you
+summary: "I'm an inquisitive learner who loves to develop user-friendly software products for Social Good and Business Analytics. My areas of interest are in Deep Learning, Web Development, Computer Vision and App Development."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "nk2indian@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/TechieNK"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/naresh-kumar-1082b31ba/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.twitter.com/Naresh_NK_Kumar/"
+
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/TechieNK/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+badges:
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 95
+  color: green
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 95
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 90
+  color: "#FF0000"

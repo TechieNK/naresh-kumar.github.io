@@ -1,0 +1,17 @@
+# some information about you
+name: "Naresh Kumar"
+nickname: "Naresh Kumar"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "nk2indian@gmail.com"
+  telegram: "https://t.me/TechieNK/"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I am a Deep Learning Enthusiast
+  - I am an inquisitive learner
+  - I work on cool & innovative social good projects
