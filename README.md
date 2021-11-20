@@ -1,1 +1,0 @@
-# TechieNK.github.io
