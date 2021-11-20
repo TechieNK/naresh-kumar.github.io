@@ -1,0 +1,86 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Deep Learning
+  filter: "deep-learning"
+- name: Android Development
+  filter: "android"
+- name: Web App Development
+  filter: "web"
+- name: Data Analytics
+  filter: "data-analytics"
+
+# your projects
+projects:
+- name: Unforgeable
+  logo: images/sections/projects/unforgeable.png
+  role: Developer
+  timeline: "November 2021"
+  repo: https://github.com/TechieNK/unforgeable/
+  summary: A Deep Learning powered web app analyzing the purity of photographs
+  tags: ["deep-learning", "web"]
+
+- name: Genie
+  logo: images/sections/projects/genie.png
+  role: Developer
+  timeline: "October 2021"
+  repo: https://github.com/TechieNK/Genie/
+  summary: Deep Learning powered image credibility checker
+  tags: ["deep-learning", "web"]
+
+- name: Accidento
+  logo: images/sections/projects/accidento.png
+  role: Developer
+  timeline: "September 2021"
+  repo: https://github.com/TechieNK/accidento/
+  summary: A web application, where people from all over the world can have an insight, where the accident occurred recently.
+  tags: ["data-analytics", "web"]
+
+- name: Product Score
+  logo: images/sections/projects/productscore.png
+  role: Developer
+  timeline: "September 2021"
+  repo: https://bitbucket.org/TechieNK/product-score/src/master/
+  summary: A one-stop solution for analysing your apps from the most popular markets like Google Play, App Store and Atlassian Marketplace without the help of an analyst
+  tags: ["data-analytics", "web"]
+
+- name: Credible
+  logo: images/sections/projects/credible.png
+  role: Developer
+  timeline: "July 2021"
+  repo: https://github.com/TechieNK/credible/
+  summary: Integrated dashboard which enables the companies to analyse the standard aspects of business model like resume, product reviews, write-ups and tweets of recruits using expert.ai NL API
+  tags: ["data-analytics", "web"]
+
+- name: SurfUp
+  logo: images/sections/projects/surfup.png
+  role: Developer
+  timeline: "June 2021"
+  repo: https://github.com/TechieNK/Surfs-Up
+  summary: A full-fledged surf time risk predictor on the run to save your travel time and your life sometimes
+  tags: ["android"]
+
+- name: Fashion MNIST Classification
+  role: Collaborator
+  timeline: "February 2021"
+  repo: https://github.com/TechieNK/fashion_mnist
+  summary: My take on the popular Fashion MNIST classification using neural networks
+  tags: ["deep-learning"]
+
+- name: Days
+  logo: images/sections/projects/days.png
+  role: Collaborator
+  timeline: "December 2020"
+  repo: https://github.com/TechieNK/Days
+  summary: Digital diary for sharing memories
+  tags: ["android"]

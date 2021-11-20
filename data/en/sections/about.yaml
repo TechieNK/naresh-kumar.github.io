@@ -60,10 +60,20 @@ badges:
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 95
+  percentage: 90
   color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: "#a2eb34"
 
 - type: soft-skill-indicator
   name: Communication
   percentage: 90
   color: "#FF0000"
+
+- type: soft-skill-indicator
+  name: Fast Learner
+  percentage: 85
+  color: "#34ebd0"
