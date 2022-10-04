@@ -10,6 +10,16 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Google Summer of Code - International Neuroinformatics Coordinating Facility (INCF)
+    url: "https://summerofcode.withgoogle.com/programs/2022/projects/nydN1vZi"
+    overview: Google Summer of Code (GSoC) is a program designed to bring new, excited contributors into open source communities, with the hope that they will continue to contribute to open source communities long after their GSoC program ends.
+  positions:
+  - designation: Developer (Remote)
+    start: May 2022
+    end: September 2022
+    responsibilities:
+    - Create a pipeline to convert latex papers in xml. Adapt the final format to PMC requirements and integrate with the current Scholastica platform. Explore and prototype a standalone platform.
+- company:
     name: Cognizance Club
     url: "https://cognizance-amrita.herokuapp.com/"
     location: Amrita Vishwa Vidyapeetham, Chennai
