@@ -12,11 +12,11 @@ section:
 skills:
 - name: Web Development
   logo: "images/sections/skills/web.png"
-  summary: "Worked with dynamic web app frameworks like Django, and Flask. Capable of designing good user interface using Bootstrap and CSS (Static)"
+  summary: "Worked with dynamic web app frameworks like React, Django, and Flask. Capable of designing good user interface using Bootstrap and CSS (Static)"
 
 - name: App Development
   logo: "images/sections/skills/app.png"
-  summary: "Capable of developing full-scale android apps using Java and Dart"
+  summary: "Capable of developing full-scale mobile apps using React Native, Java and Dart"
 
 - name: Deep Learning
   logo: "images/sections/skills/dl.png"
