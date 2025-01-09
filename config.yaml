@@ -10,7 +10,7 @@ languages:
     languageName: English
     weight: 1
 
-# Control TOC depth
+# Control TOC depth 
 markup:
   tableOfContents:
     startLevel: 2
