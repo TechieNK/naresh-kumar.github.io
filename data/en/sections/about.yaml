@@ -15,7 +15,7 @@ company:
   url: "https://www.amrita.edu/school/engineering/chennai"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/NK-resume.pdf"
+resume: "files/NK_CV_OnePage.pdf"
 
 # a summary about you
 summary: "I'm an inquisitive learner who loves to develop user-friendly software products for Social Good and Business Analytics. My areas of interest are in Deep Learning, Web Development, Computer Vision and App Development."
